@@ -1,0 +1,1 @@
+create table stud(name varchar(10));
